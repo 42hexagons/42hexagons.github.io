@@ -18,3 +18,19 @@ used by over 5,000 customers worldwide.
 We have ambitious goals, eager to solve real world problems and we do love our work! If you are
 comfortable with full telecommuting work and a multicultural environment, you may want to take a
 look at our job offers.
+
+<div class="container mt-5">
+    <h2 class="mb-5 text-center">Meet the team!</h2>
+    <div class="row mt-5 justify-content-md-center">
+        <div class="col-6 col-xs-12 text-center">
+            <img class="img-fluid rounded-circle mb-3" src="/assets/remi.jpg" alt="Rémi Chief Executive Officer" />
+            <h5>Rémi</h5>
+            <p>Chief Executive Officer</p>
+        </div>
+        <div class="col-6 col-xs-12 text-center">
+            <img class="img-fluid rounded-circle mb-3" src="/assets/geoffrey.png" alt="Geoffrey Chief Technical Officer" />
+            <h5>Geoffrey</h5>
+            <p>Chief Technical Officer</p>
+        </div>
+    </div>
+</div>
