@@ -8,4 +8,10 @@ layout: default
 
 <h4 class="display-4 text-center">Jobs</h4>
 
-<p class="text-center">There are no open position at the moment. Check us out later!</p>
+<ul>
+  {% for job in site.jobs %}
+    <li>
+      <a href="{{ job.url }}">{{ job.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
