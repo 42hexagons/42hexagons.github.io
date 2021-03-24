@@ -6,10 +6,10 @@ title: Products
 layout: default
 ---
 
-<h4 class="display-4 text-center">Products</h4>
+<h4 class="display-4 text-center mb-5">Products</h4>
 
 <div class="row">
-    <div class="col-12">
-        <img class="img-responsive" src="/assets/flexomatic.png" />
+    <div class="col-12 text-center">
+        <a href="https://www.flexomatic.app/"><img class="img-responsive" src="/assets/flexomatic.png" /></a>
     </div>
 </div>

@@ -6,6 +6,6 @@ title: Blog
 layout: default
 ---
 
-<h4 class="display-4 text-center">Blog</h4>
+<h4 class="display-4 text-center mb-5">Blog</h4>
 
 <p class="text-center">There are no entry at the moment. Check us out later!</p>

@@ -6,12 +6,17 @@ title: Jobs
 layout: default
 ---
 
-<h4 class="display-4 text-center">Jobs</h4>
+<h4 class="display-4 text-center mb-5">Jobs</h4>
 
-<ul>
+<p>We have a few open positions at the moment. Still, if you do not find yours
+here, you can still spontaneously apply at
+<a href="mailto:hello@42hexagons.org">hello@42hexagons.org</a> with a resume /
+portfolio. We always welcome talented people!</p>
+
+<ul class="list-group list-group-flush">
   {% for job in site.jobs %}
-    <li>
-      <a href="{{ job.url }}">{{ job.title }}</a>
+    <li class="list-group-item">
+      <a href="{{ job.url }}" class="lead">{{ job.title }}</a>
     </li>
   {% endfor %}
 </ul>

@@ -6,6 +6,6 @@ title: Careers
 layout: default
 ---
 
-<h4 class="display-4 text-center">Jobs</h4>
+<h4 class="display-4 text-center mb-5">Jobs</h4>
 
 <p class="text-center">There are no open position at the moment. Check us out later!</p>
