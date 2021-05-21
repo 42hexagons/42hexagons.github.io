@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About
-permalink: /about/
+permalink: /about
 ---
 
 <h4 class="display-4 text-center mb-5">A few words about us</h4>

@@ -4,6 +4,7 @@
 
 title: Blog
 layout: default
+permalink: /blog
 ---
 
 <h4 class="display-4 text-center mb-5">Blog</h4>

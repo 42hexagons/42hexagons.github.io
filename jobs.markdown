@@ -4,6 +4,7 @@
 
 title: Jobs
 layout: default
+permalink: /jobs
 ---
 
 <h4 class="display-4 text-center mb-5">Jobs</h4>

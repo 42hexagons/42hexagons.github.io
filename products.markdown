@@ -4,6 +4,7 @@
 
 title: Products
 layout: default
+permalink: /products
 ---
 
 <h4 class="display-4 text-center mb-5">Products</h4>
