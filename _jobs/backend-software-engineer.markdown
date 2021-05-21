@@ -9,7 +9,7 @@ layout: default
 # Senior backend software engineer
 
 42Hexagons is looking for a Senior Backend Software Engineer to complete its
-software developement team on our phare product: Flexomatic.
+software developement team on its phare product: Flexomatic.
 
 ## The context
 
@@ -53,7 +53,7 @@ know it.
 Full-remote. We are all based in France so if you are close to UTC+1, that
 would be great but that should not help you from applying to this position.
 
-## Budget & Duration
+## Additional information
 
 The expected workload is of 40 hr/week maximum with a negociable hourly rate.
 We are looking for a mid-term collaboration starting from August 1st 2021.
