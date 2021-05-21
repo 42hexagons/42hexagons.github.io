@@ -51,4 +51,4 @@ would be great but that should not stop you to apply.
 
 ## Apply
 
-Shoot us a resume at geoffrey@42hexagons.org.
+Shoot us a resume at hello@42hexagons.org.
