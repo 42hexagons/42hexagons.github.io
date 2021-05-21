@@ -9,7 +9,7 @@ layout: default
 # Senior backend software engineer
 
 42Hexagons is looking for a Senior Backend Software Engineer to complete its
-software developement team on its phare product: Flexomatic.
+software developement team on its phare product: [Flexomatic](https://www.flexomatic.app/).
 
 ## The context
 
@@ -47,6 +47,14 @@ communicate in proper English.
 on a daily basis, so we expect you to be able to handle git if you don't already
 know it.
 - Knowledge of Android development is a plus.
+
+## Technical environment
+
+- Frontend : HTML/Bootstrap (for the landing page) – Android/Kotlin.
+- Backend : Python 3.8/Flask.
+- Database: PostgreSQL.
+- Infrastructure: Heroku.
+- Other: Git, Trello, Slack.
 
 ## Location
 
