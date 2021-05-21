@@ -53,9 +53,10 @@ know it.
 Full-remote. We are all based in France so if you are close to UTC+1, that
 would be great but that should not help you from applying to this position.
 
-## Budget
+## Budget & Duration
 
-The expected workload is of 40 hr/week maximum with an hourly rate of US$15.
+The expected workload is of 40 hr/week maximum with a negociable hourly rate.
+We are looking for a mid-term collaboration starting from August 1st 2021.
 
 ## Apply
 
