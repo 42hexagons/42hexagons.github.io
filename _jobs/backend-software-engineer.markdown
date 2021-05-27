@@ -9,7 +9,7 @@ layout: default
 # Senior backend software engineer
 
 42Hexagons is looking for a Senior Backend Software Engineer to complete its
-software developement team on its phare product: [Flexomatic](https://www.flexomatic.app/).
+software development team for its flagship product: [Flexomatic](https://www.flexomatic.app/).
 
 ## The context
 
@@ -25,15 +25,21 @@ CTO and take part in the backend development. Here are the key points of your
 role:
 
 - bringing brand new features to life;
-- enhance the codebase and constantly ensuring it preserves a maintanable state;
+- enhance the codebase and constantly ensuring it preserves a maintainable state;
 - adding tests and enforcing them so there will be no regression on the app;
 - enforcing technical watch to update and improve our tools.
 
+## Examples of major features we would like to implement
+
+- Fair system between our users (Backend would decide which user is the most in need for work)
+- Predictive modeling, improving efficiency and usability of our app, with Machine Learning
+- Plug iOS' Flexomatic version with the backend
+- Duplication of Flexomatic on the other actors of the Gig Economy (Deliveroo, Instacart, Glovo, Spark Driver etc.), with total freedom to reinvent the stack
 
 ## Required skills
 
 - **Significant experience on Web development**. We are not asking for
-“years of experience”; if you have a few websites to show us and tell us how
+“years of experience”; if you have a few websites/apps to show us and tell us how
 your work fit into it, that would be great.
 - **Knowledge of an imperative programming language**. We are using **Python**
 and **Flask**, but you are not required to know both of these tools. As a
@@ -63,7 +69,7 @@ would be great but that should not help you from applying to this position.
 
 ## Additional information
 
-The expected workload is of 40 hr/week maximum with a negociable hourly rate.
+The expected workload is of 40 hr/week maximum with a negotiable hourly rate.
 We are looking for a mid-term collaboration starting from August 1st 2021.
 
 ## Apply
