@@ -40,11 +40,12 @@ Examples of major features we would like to implement:
 - Knowledge of how RESTful APIs work and how to reverse engineer an Android app is a great plus!
 
 ## Technical environment
-Frontend : HTML/Bootstrap (for the landing page) – Android/Kotlin for our app.
-Backend : Python 3.8/Flask.
-Database: PostgreSQL.
-Infrastructure: Heroku.
-Other: Git, ClickUp, Slack.
+
+- Frontend : HTML/Bootstrap (for the landing page) – Android/Kotlin for our app.
+- Backend : Python 3.8/Flask.
+- Database: PostgreSQL.
+- Infrastructure: Heroku.
+- Other: Git, ClickUp, Slack.
 
 ## Location
 
