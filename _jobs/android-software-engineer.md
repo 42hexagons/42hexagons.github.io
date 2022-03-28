@@ -53,7 +53,7 @@ Full-remote allowed. Most of the team is based in Lyon, France. If you are close
 
 ## Additional information
 
-The expected workload is of 40 hr/week maximum with a negotiable hourly rate. We are looking for a mid-term collaboration starting ASAP.
+The expected workload is of 40 hr/week maximum with a negotiable hourly rate according to your experience and your profile. We are looking for a mid-term collaboration starting ASAP.
 
 ## Apply
 
