@@ -11,6 +11,6 @@ permalink: /products
 
 <div class="row">
     <div class="col-12 text-center">
-        <a href="https://www.flexomatic.app/"><img class="img-responsive ing-fluid" src="/assets/flexomatic.png" /></a>
+        <a href="https://www.flexomatic.app/"><img class="img-responsive img-fluid" src="/assets/flexomatic.png" /></a>
     </div>
 </div>
